@@ -15,10 +15,6 @@
   <p>Advanced OCR, diagram recognition, and mathematical equation parsing for seamless conversion</p>
 </div>
 
-## 🚀 Live Demo
-
-[View Live Application](https://ink2deck-converter.vercel.app) *(Deployed on Vercel)*
-
 ## 📋 Table of Contents
 
 - [Features](#-features)
@@ -321,12 +317,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **shadcn/ui** for beautiful component primitives
 - **Vite** for lightning-fast development experience
 
-## 📞 Contact
-
-**Project Author**: [Your Name]
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Email**: your.email@example.com
 
 ---
 
